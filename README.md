@@ -27,9 +27,9 @@
    - Utilize GPT integration (gpt-4o-mini) in Langflow to generate insights based on the engagement data, complete with helpful recommendations for the next viral post. ✨🚀
 
 ### Screenshots
-- **Dataset Screenshot**: ![Dataset](path/to/dataset_screenshot.png)
-- **Langflow Agent Workflow**: ![Langflow Workflow](path/to/langflow_workflow_screenshot.png)
-- **Sample Output**: ![Sample Output](path/to/sample_output_screenshot.png)
+- **Dataset Screenshot**: ![Dataset](Screenshots/dataset.png)
+- **Langflow Agent Workflow**: ![Langflow Workflow](Screenshots/Adding in Astra DB.jpeg) ![Langflow Workflow](Screenshots/Query LLM.jpeg)
+- **Sample Output**: ![Sample Output](Screenshots/Sample output.jpeg)
 
 ### Installation and Setup
 1. Clone the repository:
