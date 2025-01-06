@@ -1,6 +1,6 @@
-# SocialSight
+# SocialSight - Social Media Performance Analysis
 
-## Social Media Performance Analysis (Pre-Hackathon Assignment for Level SuperMind Hackathon)
+## Pre-Hackathon Assignment for Level SuperMind Hackathon
 
 ### Overview 
 SocialSight is a basic analytics module designed to analyze engagement data from mock social media accounts. The project utilizes Langflow and DataStax Astra DB to fetch, store, and analyze engagement metrics, providing insightful performance insights using GPT integration. 📊✨
