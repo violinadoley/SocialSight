@@ -43,12 +43,3 @@
    ```
 
 {AAKASH SEE IF YOU CAN WRITE THE INSTALLATION AND SETUP PART}
-
-
-
-
-
-
-
-
-Thanks for Checking Out Our Project :)
