@@ -1,6 +1,7 @@
 # {PROJECT NAME}
 
-## Social Media Performance Analysis (Pre-Hackathon Assignment for Level SuperMind Hackathon)
+## Social Media Performance Analysis 
+## (Pre-Hackathon Assignment for Level SuperMind Hackathon)
 
 ### Overview 
 {PROJECT NAME} is a basic analytics module designed to analyze engagement data from mock social media accounts. The project utilizes Langflow and DataStax Astra DB to fetch, store, and analyze engagement metrics, providing insightful performance insights using GPT integration. 📊✨
@@ -12,7 +13,8 @@
 ### Tools and Tech Stack
 - **DataStax Astra DB**: For database operations to store and query social media engagement data.
 - **Langflow**: For workflow creation and GPT integration to generate insights.
-  {AAKASH ADD THE TECHSTACK FOR THE FRONTEND AND BACKEND}
+
+# {AAKASH ADD THE TECHSTACK FOR THE FRONTEND AND BACKEND}
 
 ### Features
 1. **Fetch Engagement Data**:
@@ -42,4 +44,4 @@
    pip install -r requirements.txt
    ```
 
-{AAKASH SEE IF YOU CAN WRITE THE INSTALLATION AND SETUP PART}
+# {AAKASH SEE IF YOU CAN WRITE THE INSTALLATION AND SETUP PART}
