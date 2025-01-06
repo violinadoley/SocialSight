@@ -28,7 +28,7 @@
 
 ### Screenshots
 - **Dataset Screenshot**: ![Dataset](Screenshots/dataset.png)
-- **Langflow Agent Workflow**: ![Langflow Workflow](Screenshots/Adding in Astra DB.jpeg) ![Langflow Workflow](Screenshots/Query LLM.jpeg)
+- **Langflow Agent Workflow**: ![Langflow Workflow](Screenshots/Adding_in_db.jpeg) ![Langflow Workflow](Screenshots/LLM_query.jpeg)
 - **Sample Output**: ![Sample Output](Screenshots/Sample_output.jpeg)
 
 ### Installation and Setup
