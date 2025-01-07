@@ -13,7 +13,7 @@ SocialSight is a basic analytics module designed to analyze engagement data from
 - **DataStax Astra DB**: For database operations to store and query social media engagement data.
 - **Langflow**: For workflow creation and GPT integration to generate insights.
 
-# {AAKASH ADD THE TECHSTACK FOR THE FRONTEND AND BACKEND}
+# {AAKASH add the techstack for the frontend and backend}
 
 ### Features
 1. **Fetch Engagement Data**:
@@ -43,4 +43,4 @@ SocialSight is a basic analytics module designed to analyze engagement data from
    pip install -r requirements.txt
    ```
 
-# {AAKASH SEE IF YOU CAN WRITE THE INSTALLATION AND SETUP PART}
+# {AAKASH see if you can write the installation and setup part}
