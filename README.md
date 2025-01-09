@@ -35,7 +35,7 @@ SocialSight is a basic analytics module designed to analyze engagement data from
 ### Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/engageinsight-analytics.git
+   git clone https://github.com/violinadoley/SocialSight.git
    ```
 
 2. Install the required dependencies:
