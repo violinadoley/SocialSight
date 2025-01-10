@@ -5,15 +5,11 @@
 ### Overview 
 SocialSight is a basic analytics module designed to analyze engagement data from mock social media accounts. The project utilizes Langflow and DataStax Astra DB to fetch, store, and analyze engagement metrics, providing insightful performance insights using GPT integration. 📊✨
 
-### Live Demo
-- **Live Website**: [EngageInsight Analytics](https://yourwebsite.com) 🌐
-- **Demo Video**: [Watch the Demo](https://youtu.be/demo_video_link) 🎬
 
 ### Tools and Tech Stack
 - **DataStax Astra DB**: For database operations to store and query social media engagement data.
 - **Langflow**: For workflow creation and GPT integration to generate insights.
 
-# {AAKASH add the techstack for the frontend and backend}
 
 ### Features
 1. **Fetch Engagement Data**:
@@ -37,10 +33,25 @@ SocialSight is a basic analytics module designed to analyze engagement data from
    ```bash
    git clone https://github.com/violinadoley/SocialSight.git
    ```
-
-2. Install the required dependencies:
+2. cd into the social-sight repo
    ```bash
-   pip install -r requirements.txt
+   cd SocialSight
+   cd social-sight
    ```
+   Yes, required twice to enter the src repo.
 
-# {AAKASH see if you can write the installation and setup part}
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+4. Add .env file in the src directory and add these - 
+ ```bash
+   LANGFLOW_BASE_URL= 
+   LANGFLOW_APP_TOKEN=
+   ```
+Get the Langflow base URL an the app token from your Langflow dashboard.
+
+5. Run the project on Local host :
+   ``` bash
+   npm run dev
+   ```
