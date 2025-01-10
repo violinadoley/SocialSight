@@ -34,15 +34,20 @@
 // }
 
 // app/layout.tsx
+// app/layout.tsx
 import React from "react";
-import "./globals.css"; // your Tailwind global styles
-import { Inter } from "next/font/google";
+import "./globals.css";
+import { Poppins } from "next/font/google";
+import { Metadata } from "next";
 
-const inter = Inter({ subsets: ["latin"] });
+const poppins = Poppins({
+  weight: ["400", "500", "700"],
+  subsets: ["latin"],
+});
 
-export const metadata = {
-  title: "My Langflow App",
-  description: "A Next.js 13 app integrated with Langflow",
+export const metadata: Metadata = {
+  title: "Astra Langflow Chat",
+  description: "Next.js 13 App integrated with Langflow and a sleek UI",
 };
 
 export default function RootLayout({
@@ -52,11 +57,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} bg-gray-100 text-gray-900`}>
-        <nav className="p-4 bg-blue-600 text-white">
-          <h1 className="text-xl font-bold">Langflow Next.js App</h1>
-        </nav>
-        <main className="p-4 container mx-auto">{children}</main>
+      <body
+        
+      >
+        
+        <main >{children}</main>
       </body>
     </html>
   );
